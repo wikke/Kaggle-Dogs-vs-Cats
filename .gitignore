@@ -1,0 +1,10 @@
+.ipynb_checkpoints
+*.csv
+model
+*.hdf5
+*.zip
+test/
+train/
+val/
+val_even_less/
+val_less/
